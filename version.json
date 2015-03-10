@@ -1,10 +1,10 @@
 {
   "markers": {
     "version": 1,
-    "link": "link"
+    "link": "https://raw.githubusercontent.com/yurkiv/carpathian-geojson/master/markers.geojson"
   },
   "tracks": {
     "version": 1,
-    "link": "link"
+    "link": "https://raw.githubusercontent.com/yurkiv/carpathian-geojson/master/tracks.geojson"
   }
 }
