@@ -1,1 +1,6232 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"description":"Брод","title":"Trail Head"},"geometry":{"type":"Point","coordinates":[23.974539544433355,48.58214185573161,933]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Брод","title":"Trail Head"},"geometry":{"type":"Point","coordinates":[24.273530999198556,48.43336299061775,816]}},{"type":"Feature","properties":{"description":"Водопад","title":"Scenic Area"},"geometry":{"type":"Point","coordinates":[24.18101574294269,48.47908057272434,855]}},{"type":"Feature","properties":{"description":"Дом лесника","title":"Lodge"},"geometry":{"type":"Point","coordinates":[24.359169155359268,48.39000541716814]}},{"type":"Feature","properties":{"description":"КПП водопада Гук","title":"Lodge"},"geometry":{"type":"Point","coordinates":[24.54989223740995,48.37119374424219]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Магазин в Быстрице","title":"Shopping Center"},"geometry":{"type":"Point","coordinates":[24.2437609937042,48.45873299986124,752]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Магазин в Быстрице","title":"Shopping Center"},"geometry":{"type":"Point","coordinates":[24.249489018693566,48.462757989764214,744]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Магазин в Осмолоде","title":"Shopping Center"},"geometry":{"type":"Point","coordinates":[24.01911735534668,48.650550842285156,715]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Магазин на Кривопольском перевале","title":"Shopping Center"},"geometry":{"type":"Point","coordinates":[24.66853522695601,48.211806155741215,966]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.71647197753191,48.63800698891282,1070]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки (рядом река)","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.788178907707334,48.66675205528736]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.843275671824813,48.651930000633]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.91791400499642,48.64387700334191,843]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.937906017526984,48.62511998042464,1482]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.89857997186482,48.57984496280551,1423]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.91692401841283,48.55414504185319,1444]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[23.97867802530527,48.58901199884713,901]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Різарня Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.028248013928533,48.61575001850724,762]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.018374970182776,48.636018969118595,733]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.054480018094182,48.63292797468603,1361]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.08165398053825,48.61475902609527,1669]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.105135966092348,48.573559038341045,1329]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.084998024627566,48.57478296384215,1402]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.09274097532034,48.56937797740102,1563]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.125473983585835,48.53475300595164,1421]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.18764398433268,48.49892497994006,934]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.18559276498854,48.494856068864465]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.1810152400285,48.48100212402642]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.23376901075244,48.46294599585235,760]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.273458998650312,48.432187009602785,813]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"small","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.283173959702253,48.41004302725196,1141]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.42341803573072,48.394800033420324,1316]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.425927996635437,48.39684798382223,1312]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.479331029579043,48.37689503096044,1429]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.48691489174962,48.378022480756044]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.49659900739789,48.37341000325978,1327]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.50132698751986,48.37028497830033,1348]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.69615200534463,48.2856959849596,1319]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.67507897876203,48.270575031638145,1313]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.659371376037598,48.259698549667306]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.624572983011603,48.18716201931238,1385]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.65028002858162,48.170047011226416,1494]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.668588200584054,48.16590174101293,1504]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.695350024849176,48.145937975496054,1305]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Место для палатки","title":"Campground"},"geometry":{"type":"Point","coordinates":[24.702552007511258,48.13918299973011,1253]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Подвесной пешеходный мост","title":"Scenic Area"},"geometry":{"type":"Point","coordinates":[24.01852659881115,48.64369511604309,725]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[23.70841797441244,48.638422982767224,1164]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[23.839757032692432,48.649983974173665,1295]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.124708967283368,48.53716900572181,1430]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.130777968093753,48.533680038526654,1394]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.147452004253864,48.52787096053362,1430]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.35842216014862,48.39051151403311]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.42217298783362,48.39644598774612,1271]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.493302907794714,48.37069862522185]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.498310005292296,48.37086098268628,1326]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.570147022604942,48.36501502431929,733]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.668640000745654,48.317906968295574,1172]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.693477004766464,48.286494025960565,1284]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.6782112121582,48.26994027038693]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.657762050628662,48.2597985484926]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.654565025120974,48.201372027397156,1068]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.647956984117627,48.163711968809366,1439]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Родник","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.699650024995208,48.14350001513958,1252]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[23.761542979627848,48.64867798984051,1019]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[23.89886001124978,48.64664101973176,1101]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[23.938615964725614,48.631374975666404,1129]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[23.901304006576538,48.57331898063421,1305]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.013104010373354,48.6075100209564,811]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.102891962975264,48.57247299514711,1328]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.20846102759242,48.47523101605475,851]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.53475301153958,48.368652015924454,892]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.54118201509118,48.367106979712844,826]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Ручей","title":"Drinking Water"},"geometry":{"type":"Point","coordinates":[24.692447958514094,48.27689800411463,1186]}},{"type":"Feature","properties":{"description":"Столик со скамейками","title":"Picnic Area"},"geometry":{"type":"Point","coordinates":[24.60299897007644,48.35857403464615,1204]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"Столики для отдыха","title":"Picnic Area"},"geometry":{"type":"Point","coordinates":[24.02620207518339,48.61295389942825]}},{"type":"Feature","properties":{"description":"Столики со скамейками 02","title":"Picnic Area"},"geometry":{"type":"Point","coordinates":[23.914535008370876,48.641002010554075,850]}},{"type":"Feature","properties":{"description":"Столы со скамейками","title":"Picnic Area"},"geometry":{"type":"Point","coordinates":[24.61167398840189,48.35191201418638,1226]}},{"type":"Feature","properties":{"description":"Туристический приют","title":"Lodge"},"geometry":{"type":"Point","coordinates":[24.06771596521139,48.62349598668516,1449]}},{"type":"Feature","properties":{"description":"Турприют \"Плисце\"","title":"Lodge"},"geometry":{"type":"Point","coordinates":[23.931755041703582,48.61038903705776,1448]}},{"type":"Feature","properties":{"description":"Турприют \"Под Конем Грофецким\"","title":"Lodge"},"geometry":{"type":"Point","coordinates":[23.943135989829898,48.627574034035206,1282]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","description":"перевал Торунський","title":"Mountain Pass"},"geometry":{"type":"Point","coordinates":[23.63382339477539,48.701720828083424]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.18101574294269,
+          48.47908057272434,
+          855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lodge",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.359169155359268,
+          48.39000541716814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54989223740995,
+          48.37119374424219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2437609937042,
+          48.45873299986124,
+          752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.249489018693566,
+          48.462757989764214,
+          744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01911735534668,
+          48.650550842285156,
+          715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66853522695601,
+          48.211806155741215,
+          966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71647197753191,
+          48.63800698891282,
+          1070
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.788178907707334,
+          48.66675205528736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.843275671824813,
+          48.651930000633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.937906017526984,
+          48.62511998042464,
+          1482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89857997186482,
+          48.57984496280551,
+          1423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91692401841283,
+          48.55414504185319,
+          1444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.97867802530527,
+          48.58901199884713,
+          901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.028248013928533,
+          48.61575001850724,
+          762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018374970182776,
+          48.636018969118595,
+          733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.054480018094182,
+          48.63292797468603,
+          1361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.08165398053825,
+          48.61475902609527,
+          1669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.105135966092348,
+          48.573559038341045,
+          1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.084998024627566,
+          48.57478296384215,
+          1402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.09274097532034,
+          48.56937797740102,
+          1563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.125473983585835,
+          48.53475300595164,
+          1421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.18764398433268,
+          48.49892497994006,
+          934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.18559276498854,
+          48.494856068864465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1810152400285,
+          48.48100212402642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.23376901075244,
+          48.46294599585235,
+          760
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.273458998650312,
+          48.432187009602785,
+          813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.283173959702253,
+          48.41004302725196,
+          1141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.42341803573072,
+          48.394800033420324,
+          1316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.425927996635437,
+          48.39684798382223,
+          1312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.479331029579043,
+          48.37689503096044,
+          1429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48691489174962,
+          48.378022480756044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49659900739789,
+          48.37341000325978,
+          1327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.50132698751986,
+          48.37028497830033,
+          1348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69615200534463,
+          48.2856959849596,
+          1319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67507897876203,
+          48.270575031638145,
+          1313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.624572983011603,
+          48.18716201931238,
+          1385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65028002858162,
+          48.170047011226416,
+          1494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.668588200584054,
+          48.16590174101293,
+          1504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.695350024849176,
+          48.145937975496054,
+          1305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.702552007511258,
+          48.13918299973011,
+          1253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01852659881115,
+          48.64369511604309,
+          725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.70841797441244,
+          48.638422982767224,
+          1164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.839757032692432,
+          48.649983974173665,
+          1295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.124708967283368,
+          48.53716900572181,
+          1430
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.130777968093753,
+          48.533680038526654,
+          1394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.147452004253864,
+          48.52787096053362,
+          1430
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.35842216014862,
+          48.39051151403311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.42217298783362,
+          48.39644598774612,
+          1271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.498310005292296,
+          48.37086098268628,
+          1326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.570147022604942,
+          48.36501502431929,
+          733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.668640000745654,
+          48.317906968295574,
+          1172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.693477004766464,
+          48.286494025960565,
+          1284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6782112121582,
+          48.26994027038693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.657762050628662,
+          48.2597985484926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.654565025120974,
+          48.201372027397156,
+          1068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.647956984117627,
+          48.163711968809366,
+          1439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.699650024995208,
+          48.14350001513958,
+          1252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.761542979627848,
+          48.64867798984051,
+          1019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.938615964725614,
+          48.631374975666404,
+          1129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.901304006576538,
+          48.57331898063421,
+          1305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.013104010373354,
+          48.6075100209564,
+          811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.102891962975264,
+          48.57247299514711,
+          1328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.20846102759242,
+          48.47523101605475,
+          851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53475301153958,
+          48.368652015924454,
+          892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54118201509118,
+          48.367106979712844,
+          826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.692447958514094,
+          48.27689800411463,
+          1186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60299897007644,
+          48.35857403464615,
+          1204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02620207518339,
+          48.61295389942825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.914535008370876,
+          48.641002010554075,
+          850
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61167398840189,
+          48.35191201418638,
+          1226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.06771596521139,
+          48.62349598668516,
+          1449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.931755041703582,
+          48.61038903705776,
+          1448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.943135989829898,
+          48.627574034035206,
+          1282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.970362,
+          48.32769602,
+          1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.91356695,
+          48.96705703,
+          956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.29239061,
+          48.16850583,
+          727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.56161402,
+          48.94899001,
+          286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.88244,
+          48.99624198,
+          833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.54085096,
+          48.91534295,
+          924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.10545196,
+          48.28790696,
+          1564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.02422719,
+          48.84939112,
+          973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.22460697,
+          48.64745599,
+          1439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.18823798,
+          48.668872,
+          1191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22270699,
+          48.24795302,
+          1565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.27351096,
+          48.17426696,
+          683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.32357397,
+          48.167285,
+          1200
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.25855295,
+          48.18989041,
+          1269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46625232,
+          48.15882887,
+          1534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.56193296,
+          48.979837,
+          666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.57701099,
+          48.99685797,
+          765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.66602102,
+          49.01572798,
+          563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.74736303,
+          49.02935,
+          806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.55705402,
+          49.00542402,
+          948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.89617501,
+          49.00358897,
+          892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.91444202,
+          48.98670103,
+          954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.91962103,
+          48.89272003,
+          1190
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.14144299,
+          48.83593901,
+          794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.30875097,
+          48.598865,
+          1231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.42145597,
+          48.50704997,
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.402536,
+          48.50236801,
+          1136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.37078301,
+          48.540491,
+          953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54024799,
+          48.52973903,
+          659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72041499,
+          48.49349702,
+          1583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79232501,
+          48.35272698,
+          1399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91928796,
+          48.30430397,
+          1144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.04766402,
+          48.27231402,
+          1514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01178,
+          48.30374297,
+          1235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.494896,
+          48.90775197,
+          319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.71030999,
+          49.03175803,
+          672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.82182702,
+          49.00732001,
+          673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.84272998,
+          48.99653702,
+          792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.17190601,
+          48.69710602,
+          687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33796601,
+          48.56764803,
+          1071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.66422891,
+          48.52619763,
+          1041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67522597,
+          48.51384996,
+          1296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71801902,
+          48.40490098,
+          910
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.93782303,
+          48.31622296,
+          688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.09323481,
+          48.83348755,
+          661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.58004298,
+          48.99922301,
+          823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.48271198,
+          48.91058597,
+          254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.82431502,
+          49.00695598,
+          671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.88811899,
+          49.00257702,
+          853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.16487401,
+          48.81850901,
+          844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.64359736,
+          48.53092965,
+          688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67012499,
+          48.52497199,
+          1060
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.19867102,
+          48.67501099,
+          1106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26000704,
+          48.17903123,
+          884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.31233644,
+          48.17367005,
+          1059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.33930873,
+          48.15646705,
+          1235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48894842,
+          48.16076656,
+          1780
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.56435097,
+          48.98227295,
+          704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.56860797,
+          48.96980102,
+          545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.70372198,
+          49.02841801,
+          844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.749069,
+          49.02719199,
+          793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.76576902,
+          49.02692603,
+          845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.73887602,
+          49.02908999,
+          720
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.894275,
+          49.00382601,
+          869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.90361797,
+          48.99469301,
+          929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.91480496,
+          48.98375202,
+          971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.90901399,
+          48.96609001,
+          951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.89957898,
+          48.90486499,
+          1123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.07885699,
+          48.83172199,
+          681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.91215896,
+          48.89764096,
+          1201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.92998501,
+          48.88787101,
+          1204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.04539501,
+          48.85134796,
+          800
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95465303,
+          48.88316801,
+          1141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.17860399,
+          48.69988102,
+          642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.16637496,
+          48.68809397,
+          1089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.24985603,
+          48.63790104,
+          1337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32384586,
+          48.57677039,
+          1178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33883102,
+          48.56484403,
+          1087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.35518697,
+          48.550974,
+          990
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.39443003,
+          48.52297903,
+          1069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.41813087,
+          48.50710875,
+          996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47906001,
+          48.51686099,
+          756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.39202702,
+          48.51110204,
+          1080
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.64928197,
+          48.53266398,
+          754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67629902,
+          48.51071999,
+          1371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65508794,
+          48.52909658,
+          934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.73988296,
+          48.39365799,
+          1244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82923799,
+          48.33301903,
+          1273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69755963,
+          48.46671818,
+          925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.94113196,
+          48.32934801,
+          813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.99522398,
+          48.31644097,
+          1296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02977662,
+          48.28580511,
+          1408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.80816704,
+          49.01100503,
+          777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.22681427,
+          48.64511692,
+          1471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.166109,
+          48.66998001,
+          1223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.13447796,
+          48.83319402,
+          854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77949299,
+          48.75335999,
+          723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84481274,
+          48.76097705,
+          1165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.90372796,
+          48.69056001,
+          928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77468395,
+          48.760839,
+          696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81761799,
+          48.733414,
+          866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83462999,
+          48.72745295,
+          946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83971797,
+          48.65579104,
+          1353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84515698,
+          48.67552497,
+          1572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82836502,
+          48.71325703,
+          1466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84371597,
+          48.71609799,
+          1185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85072299,
+          48.75649499,
+          1259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88882637,
+          48.71900081,
+          1289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.92610496,
+          48.65371065,
+          824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91805071,
+          48.64404497,
+          843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88145197,
+          48.64704502,
+          1489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.941139,
+          48.65842496,
+          800
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85013902,
+          48.72214302,
+          1191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.78615501,
+          48.78088298,
+          865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85042199,
+          48.75774398,
+          1226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88189797,
+          48.64602402,
+          1471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83058798,
+          48.71331403,
+          1444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83975703,
+          48.64998397,
+          1306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91127503,
+          48.68811199,
+          904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.92534104,
+          48.67463699,
+          850
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91741796,
+          48.64604297,
+          835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.90559503,
+          48.64137098,
+          904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84395795,
+          48.72087299,
+          1085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.86481397,
+          48.72625996,
+          1258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.87517501,
+          48.722096,
+          1260
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89662698,
+          48.71190696,
+          1220
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85406494,
+          48.69853019,
+          1398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.770551681518555,
+          48.791768204795396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.771023750305172,
+          48.79018491848064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.76093864440918,
+          48.79183888605517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.652395009994503,
+          48.72720881940671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65370392799377,
+          48.7266921796019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65385413169861,
+          48.72781745675054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.015169143676758,
+          48.64960391039786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01589870452881,
+          48.649816554045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.017320275306698,
+          48.649841362412104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.208438396453857,
+          48.62661184407793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.214982986450195,
+          48.62451275552683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.212515354156494,
+          48.64506021019478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.389305114746094,
+          48.66199953725334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39067840576172,
+          48.65995861448463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.370594024658203,
+          48.655026043287094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.304150342941284,
+          48.6260303485602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43711280822754,
+          48.5729726246542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.422779083251953,
+          48.570019395142374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41232919692993,
+          48.566867200274096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.350252151489258,
+          48.532151669177196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.351797103881836,
+          48.53371466401581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.34745192527771,
+          48.532201401574326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.382352828979492,
+          48.51506925402457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38292145729065,
+          48.516199258912714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.29877519607544,
+          48.50608517390426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.25103187561035,
+          48.462620691861474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.247126579284668,
+          48.46028712072844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2103910446167,
+          48.450482104010916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.342656135559082,
+          48.30480671745389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.355874061584473,
+          48.29801234073697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.357815980911255,
+          48.270025966504306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.35942530632019,
+          48.27261820613144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.361281394958496,
+          48.27090434342198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.362053871154785,
+          48.27248966842216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.349597692489624,
+          48.2583771182478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.32024359703064,
+          48.230340440262985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.32150959968567,
+          48.230526258839056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.32451367378235,
+          48.230612021031206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.24333393573761,
+          48.24889752515781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.24679934978485,
+          48.24916186317676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.238522052764893,
+          48.24669703673021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7114679813385,
+          48.42404609063185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.70847463607788,
+          48.42370433967129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.697139620780945,
+          48.42663762729853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.698641657829285,
+          48.42697935853582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69380831718445,
+          48.43000500362243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.620734214782715,
+          48.49283359224373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.62099170684814,
+          48.4888233108343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.62378120422363,
+          48.48705982429035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626420497894287,
+          48.5151474312749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.685708045959473,
+          48.52854238766867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.689082264900208,
+          48.58150123610027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.689699172973633,
+          48.58206195165128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.689817190170288,
+          48.58292785458594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.689817190170288,
+          48.584056345162104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67949604988098,
+          48.575769514715084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.702369928359985,
+          48.614647288451074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.687070608139038,
+          48.61751279891675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.695578575134277,
+          48.596670302833935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.749887943267822,
+          48.632795138039036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.757333755493164,
+          48.634397565363656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.565094470977783,
+          48.65577729936619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.500421047210693,
+          48.52911079552418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50173532962799,
+          48.523618287605466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50515246391296,
+          48.51701654233874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.496365547180176,
+          48.52857791334654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5971200466156,
+          48.541486294572245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.190977215766907,
+          48.816769020422385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.901679515838623,
+          48.92897046528618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.517984151840206,
+          49.04265042511556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.528015613555908,
+          49.27759073514097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.502137660980225,
+          49.36444714850947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.873634338378906,
+          49.26688043290664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85552406311035,
+          49.068144531546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.992552757263184,
+          48.97185092773751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.14867877960205,
+          48.934045330688456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68379020690918,
+          48.907579879441926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54416513442993,
+          48.81107462273741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55997943878174,
+          48.63140538109741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63056445121765,
+          48.52597026236857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55111742019653,
+          48.45004090489689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.811731576919556,
+          48.155343362593094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.05485773086548,
+          48.52420806797246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.36664581298828,
+          48.27306808556765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.207274317741394,
+          48.054074477802814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.567036390304565,
+          48.00695793178481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.017430305480957,
+          48.138313203477495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.727172374725342,
+          48.44160045478961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.290809154510498,
+          48.619683102058275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.477362155914303,
+          48.734370457280406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.995119690895077,
+          48.54739236202776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50498080253601,
+          48.52157887364602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.179242610931396,
+          48.715558363951374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.020005226135254,
+          49.16296802408255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.603753089904785,
+          48.496338773481085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60614562034607,
+          48.49714926770883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55464720726013,
+          48.45010495016742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55566644668579,
+          48.45178433065341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55220103263855,
+          48.44595607300732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.551289081573486,
+          48.44456829402308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.558241367340088,
+          48.45469465089189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.546546936035156,
+          48.44191361627356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53995943069458,
+          48.43338639377859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.553005695343014,
+          48.43527987397887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5973801612854,
+          48.393507271387335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.599064588546753,
+          48.3997689388393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.601457118988037,
+          48.397995234144375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55933570861816,
+          48.37184550574579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57894802093506,
+          48.34623853747181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.576501846313477,
+          48.349539935589014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.574034214019775,
+          48.34197421217497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.495826363563538,
+          48.329521481679926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.498653411865234,
+          48.32920762787578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48755979537964,
+          48.31578143642254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.488396644592285,
+          48.317707834051475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.448893070220947,
+          48.306148357188285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.443947076797485,
+          48.306433807900824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45159673690796,
+          48.348235088890945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.443399906158447,
+          48.34814239359219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4450843334198,
+          48.34759334875046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.443668127059933,
+          48.346980122843775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.440717697143555,
+          48.34849891304915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41461443901062,
+          48.35474472930233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.40709352493286,
+          48.35892956821356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56140637397766,
+          48.291352688608434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56336975097656,
+          48.293030174790026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.565311670303345,
+          48.29557128292458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53770637512207,
+          48.16424633244071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70529079437256,
+          48.193034424785004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.733765125274658,
+          48.17716147952959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.765254259109497,
+          48.15345378761577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.828994274139404,
+          48.1552073727784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.825153350830078,
+          48.15598036271614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90604877471924,
+          48.108863974552605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.920543432235718,
+          48.17319068642497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.985485076904297,
+          48.12164265909682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.992480278015137,
+          48.12196495029291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.932613372802734,
+          48.03908393537859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.15493631362915,
+          47.79947771208174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.07447004318237,
+          47.993260443049394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.074115991592407,
+          48.006785658914296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.072978734970093,
+          48.01054681905505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.04273414611816,
+          48.058491910476754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.040845870971676,
+          48.114465784673584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.877885580062866,
+          47.98264741475118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.753806591033936,
+          48.04168069580093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.30995464324951,
+          48.69801388880234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.106836318969727,
+          48.68972805194428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.113852977752686,
+          48.693927796092865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.501300811767578,
+          49.03308500565985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.505452871322632,
+          49.03417527502052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.509583473205566,
+          49.03420341068776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.566864728927612,
+          49.03202988352777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.57930481433868,
+          49.013934574442715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.485325574874878,
+          48.950471669155924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.477632999420166,
+          48.920060009416595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.472955226898193,
+          48.91547022238312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.44879388809204,
+          48.84758243085803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.447474241256714,
+          48.848422595320386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.444073200225827,
+          48.846382171458345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.351601362228394,
+          48.951126919285166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.28614473342895,
+          48.8801831753449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.09450089931488,
+          48.755661810975276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.98638105392456,
+          48.547765241531984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.988462448120114,
+          48.54634473347953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.991058826446533,
+          48.54456904234286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.187997341156006,
+          48.71458855068347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.193662166595455,
+          48.714857551857676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.27428936958313,
+          48.67210372201492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.340867161750793,
+          48.670775272024486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.29577922821045,
+          48.17593092427964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.930625915527344,
+          48.33024904443315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.252381086349487,
+          48.43420501229865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.280394077301022,
+          48.36755481256533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.076095581054684,
+          48.34369995200988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.033888339996338,
+          48.31044422161924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.203191995620728,
+          48.054712734193615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.207547903060913,
+          48.054978074409895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.200960397720337,
+          48.053199551692416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.201056957244873,
+          48.05464102038692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.17762517929077,
+          47.939131305241595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.17745351791382,
+          47.93801004951044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1744065284729,
+          47.93607654500939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.831773042678833,
+          48.15465983119319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.562881588935852,
+          48.29241986172706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91248881816864,
+          48.93466555663914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.088717937469482,
+          48.31880656160508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56121325492859,
+          48.45638811009577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.501869440078732,
+          48.52168546525951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.42636251449585,
+          48.251126494825485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.349136352539062,
+          48.26360550114255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.202274680137634,
+          48.05529002669917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.93596887588501,
+          48.32428557692676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.190829753875732,
+          48.715009749253326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.669944763183594,
+          48.924642325325806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.44578981399536,
+          48.84486062481118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "help"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.162038803100586,
+          48.245339545352074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.833586215972897,
+          48.156066249768145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.76741886138916,
+          48.00420867521434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.773062229156494,
+          48.002701187738815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.18464994430542,
+          48.71469473552931
+        ]
+      }
+    }
+  ]
+}
