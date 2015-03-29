@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "1",
+    "version": "2",
     "markers_link": "https://raw.githubusercontent.com/yurkiv/carpathian-geojson/master/markers.geojson",
     "tracks_link": "https://raw.githubusercontent.com/yurkiv/carpathian-geojson/master/tracks.geojson"
   }
